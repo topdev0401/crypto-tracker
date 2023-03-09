@@ -3,8 +3,9 @@
 
 ## Introduction
 
-This is assignment that has been done by Matthew Aragon.
-The tracker is being updated every 1 min. And you can manually refresh the tracker easily.
+This is an assignment that has been done by Matthew Aragon.
+Refreshing the tracker every 1 min. And you can manually refresh the tracker easily.
+And implemented error handling. Please check the mobile and web versions of the screens as well.
 
 ## Install & Run
 
